@@ -13,5 +13,5 @@ export const environment = {
 
 export const environment1 = {
   production: true,
-  urlServer: 'http://localhost:8080/'
+  urlServer: 'https://portfolio-backend-sm.up.railway.app/'
 };
